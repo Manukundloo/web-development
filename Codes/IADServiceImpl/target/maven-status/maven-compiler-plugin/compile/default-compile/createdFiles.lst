@@ -1,0 +1,3 @@
+com\org\main\application\controller\IADServiceStarter.class
+com\org\main\application\controller\UserAuthenticationController.class
+com\org\main\application\controller\ApplicationSecurityConfig.class
